@@ -1,0 +1,101 @@
+Order_ID,Date,Product,Category,Region,Quantity,Unit_Price,Discount_Percent,Sales,Profit
+ORD-0073,2026-01-01,Monitor,Electronics,East,10,12000,10,108000.0,29965.47
+ORD-0023,2026-01-01,Office Chair,Furniture,Central,3,6500,10,17550.0,6370.7
+ORD-0079,2026-01-03,Backpack,Accessories,North,7,1200,5,7980.0,1719.03
+ORD-0004,2026-01-04,Backpack,Accessories,South,10,1200,10,10800.0,4042.04
+ORD-0089,2026-01-11,Office Chair,Furniture,Central,7,6500,15,38675.0,15360.21
+ORD-0029,2026-01-11,Smartphone,Electronics,Central,4,22000,5,83600.0,16332.62
+ORD-0093,2026-01-14,Backpack,Accessories,North,3,1200,0,3600.0,1431.59
+ORD-0097,2026-01-21,Office Chair,Furniture,North,11,6500,0,71500.0,26275.96
+ORD-0045,2026-01-21,Smartphone,Electronics,Central,10,22000,5,209000.0,66658.58
+ORD-0058,2026-01-22,Laptop,Electronics,East,6,45000,5,256500.0,72627.67
+ORD-0096,2026-01-27,Pen Set,Stationery,East,5,150,0,750.0,219.66
+ORD-0054,2026-01-27,Water Bottle,Accessories,North,8,350,10,2520.0,1001.15
+ORD-0034,2026-01-28,Pen Set,Stationery,North,7,150,15,892.5,345.68
+ORD-0042,2026-01-30,Laptop,Electronics,North,10,45000,0,450000.0,161781.36
+ORD-0030,2026-01-31,Water Bottle,Accessories,South,4,350,5,1330.0,241.7
+ORD-0008,2026-02-05,Water Bottle,Accessories,North,5,350,10,1575.0,501.74
+ORD-0025,2026-02-10,Office Chair,Furniture,North,1,6500,5,6175.0,2412.71
+ORD-0086,2026-02-11,Desk,Furniture,South,6,9000,10,48600.0,19164.26
+ORD-0002,2026-02-17,Water Bottle,Accessories,South,2,350,15,595.0,111.64
+ORD-0037,2026-02-20,Backpack,Accessories,North,4,1200,0,4800.0,1374.49
+ORD-0009,2026-02-21,Office Chair,Furniture,West,5,6500,0,32500.0,12521.48
+ORD-0048,2026-02-21,Notebook,Stationery,North,2,80,0,160.0,46.4
+ORD-0051,2026-02-23,Water Bottle,Accessories,South,1,350,10,315.0,127.14
+ORD-0035,2026-02-25,Laptop,Electronics,South,7,45000,10,283500.0,105502.31
+ORD-0062,2026-02-25,Office Chair,Furniture,West,5,6500,5,30875.0,11391.95
+ORD-0100,2026-02-28,Desk,Furniture,South,6,9000,5,51300.0,16693.75
+ORD-0019,2026-02-28,Desk,Furniture,Central,9,9000,0,81000.0,27804.71
+ORD-0066,2026-03-01,Water Bottle,Accessories,East,7,350,10,2205.0,893.94
+ORD-0081,2026-03-04,Laptop,Electronics,West,9,45000,5,384750.0,153974.18
+ORD-0070,2026-03-05,Pen Set,Stationery,East,2,150,10,270.0,88.98
+ORD-0055,2026-03-08,Pen Set,Stationery,East,5,150,0,750.0,135.64
+ORD-0016,2026-03-12,Pen Set,Stationery,Central,10,150,15,1275.0,340.27
+ORD-0001,2026-03-13,Smartphone,Electronics,North,1,22000,10,19800.0,4727.73
+ORD-0057,2026-03-18,Laptop,Electronics,Central,2,45000,0,90000.0,36613.1
+ORD-0017,2026-03-20,Backpack,Accessories,South,2,1200,0,2400.0,928.0
+ORD-0060,2026-03-21,Notebook,Stationery,South,9,80,15,612.0,253.2
+ORD-0052,2026-03-21,Desk,Furniture,East,2,9000,0,18000.0,6447.24
+ORD-0075,2026-03-28,Backpack,Accessories,North,8,1200,5,9120.0,2760.46
+ORD-0011,2026-03-29,Desk,Furniture,Central,12,9000,0,108000.0,35228.68
+ORD-0021,2026-04-02,Backpack,Accessories,Central,1,1200,10,1080.0,446.31
+ORD-0036,2026-04-04,Office Chair,Furniture,East,4,6500,15,22100.0,4721.53
+ORD-0068,2026-04-08,Notebook,Stationery,East,7,80,0,560.0,152.57
+ORD-0064,2026-04-09,Desk,Furniture,West,4,9000,5,34200.0,6350.24
+ORD-0078,2026-04-10,Monitor,Electronics,West,2,12000,15,20400.0,5701.1
+ORD-0069,2026-04-11,Laptop,Electronics,East,12,45000,15,459000.0,82806.31
+ORD-0027,2026-04-13,Headphones,Electronics,East,5,1800,15,7650.0,3147.57
+ORD-0046,2026-04-15,Smartphone,Electronics,East,7,22000,10,138600.0,56040.07
+ORD-0053,2026-04-15,Desk,Furniture,East,10,9000,5,85500.0,30115.4
+ORD-0087,2026-04-20,Headphones,Electronics,North,4,1800,15,6120.0,2120.87
+ORD-0099,2026-04-22,Backpack,Accessories,West,11,1200,0,13200.0,4162.66
+ORD-0012,2026-04-23,Office Chair,Furniture,East,3,6500,15,16575.0,4492.97
+ORD-0044,2026-05-01,Headphones,Electronics,West,2,1800,0,3600.0,1231.38
+ORD-0076,2026-05-01,Desk,Furniture,East,9,9000,10,72900.0,14755.9
+ORD-0031,2026-05-02,Smartphone,Electronics,East,1,22000,10,19800.0,3900.71
+ORD-0038,2026-05-02,Water Bottle,Accessories,South,1,350,0,350.0,140.81
+ORD-0098,2026-05-03,Office Chair,Furniture,South,4,6500,0,26000.0,8557.13
+ORD-0077,2026-05-06,Office Chair,Furniture,West,4,6500,5,24700.0,4590.79
+ORD-0059,2026-05-08,Notebook,Stationery,North,1,80,10,72.0,16.59
+ORD-0094,2026-05-14,Pen Set,Stationery,West,3,150,15,382.5,85.53
+ORD-0015,2026-05-15,Backpack,Accessories,Central,3,1200,10,3240.0,691.78
+ORD-0040,2026-05-16,Headphones,Electronics,West,7,1800,0,12600.0,5247.57
+ORD-0091,2026-05-20,Pen Set,Stationery,West,9,150,5,1282.5,381.13
+ORD-0065,2026-05-23,Notebook,Stationery,East,5,80,0,400.0,164.82
+ORD-0085,2026-05-27,Office Chair,Furniture,South,5,6500,15,27625.0,5486.21
+ORD-0071,2026-06-01,Water Bottle,Accessories,Central,5,350,15,1487.5,384.2
+ORD-0041,2026-06-01,Desk,Furniture,South,7,9000,15,53550.0,11628.45
+ORD-0090,2026-06-02,Pen Set,Stationery,West,8,150,0,1200.0,487.51
+ORD-0047,2026-06-03,Office Chair,Furniture,West,5,6500,15,27625.0,5840.22
+ORD-0050,2026-06-04,Office Chair,Furniture,Central,6,6500,10,35100.0,7646.86
+ORD-0074,2026-06-14,Desk,Furniture,West,4,9000,15,30600.0,11278.61
+ORD-0061,2026-06-20,Headphones,Electronics,West,3,1800,15,4590.0,853.5
+ORD-0005,2026-06-22,Pen Set,Stationery,North,6,150,10,810.0,176.03
+ORD-0006,2026-06-26,Smartphone,Electronics,Central,7,22000,0,154000.0,40987.88
+ORD-0049,2026-06-28,Water Bottle,Accessories,North,4,350,10,1260.0,266.85
+ORD-0010,2026-07-01,Desk,Furniture,South,8,9000,10,64800.0,14193.6
+ORD-0024,2026-07-05,Notebook,Stationery,East,8,80,0,640.0,132.38
+ORD-0007,2026-07-13,Desk,Furniture,North,1,9000,15,7650.0,2361.51
+ORD-0095,2026-07-14,Notebook,Stationery,East,4,80,15,272.0,70.3
+ORD-0072,2026-07-14,Headphones,Electronics,South,4,1800,15,6120.0,2078.25
+ORD-0039,2026-07-25,Pen Set,Stationery,North,8,150,15,1020.0,235.93
+ORD-0013,2026-07-25,Laptop,Electronics,East,4,45000,0,180000.0,67177.98
+ORD-0092,2026-07-27,Backpack,Accessories,South,1,1200,15,1020.0,265.88
+ORD-0088,2026-08-01,Pen Set,Stationery,North,7,150,10,945.0,293.16
+ORD-0003,2026-08-03,Office Chair,Furniture,South,9,6500,0,58500.0,18409.88
+ORD-0056,2026-08-07,Headphones,Electronics,Central,12,1800,15,18360.0,5735.72
+ORD-0033,2026-08-09,Backpack,Accessories,East,7,1200,5,7980.0,1617.05
+ORD-0067,2026-08-11,Headphones,Electronics,East,10,1800,10,16200.0,3064.74
+ORD-0020,2026-08-11,Desk,Furniture,South,11,9000,10,89100.0,18423.43
+ORD-0082,2026-08-15,Headphones,Electronics,Central,8,1800,10,12960.0,5287.8
+ORD-0063,2026-08-24,Laptop,Electronics,East,8,45000,5,342000.0,77940.94
+ORD-0018,2026-08-28,Pen Set,Stationery,Central,10,150,0,1500.0,408.52
+ORD-0032,2026-08-31,Backpack,Accessories,South,4,1200,5,4560.0,1612.44
+ORD-0083,2026-09-01,Water Bottle,Accessories,West,7,350,15,2082.5,823.27
+ORD-0026,2026-09-01,Backpack,Accessories,Central,2,1200,5,2280.0,480.66
+ORD-0014,2026-09-13,Smartphone,Electronics,West,4,22000,10,79200.0,18297.61
+ORD-0022,2026-09-17,Smartphone,Electronics,Central,11,22000,10,217800.0,83199.74
+ORD-0043,2026-09-18,Monitor,Electronics,North,8,12000,5,91200.0,17660.98
+ORD-0028,2026-09-22,Pen Set,Stationery,West,11,150,10,1485.0,423.44
+ORD-0080,2026-09-23,Pen Set,Stationery,West,4,150,5,570.0,212.6
+ORD-0084,2026-09-24,Desk,Furniture,West,4,9000,10,32400.0,11786.97
