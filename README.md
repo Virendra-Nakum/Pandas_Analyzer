@@ -43,13 +43,10 @@ The project provides a menu-driven interface that allows users to perform differ
 text
 
 ```
+├── README.md
 ├── main.py
 ├── output.png
-├── data/
-│   └── sales_data.csv
-├── graph/
-│   └── sales.png
-└── README.md
+└── product_sales_dataset.csv
 ```
 
 **Note:** `main.py` contains the Python program. The `data/` folder stores CSV datasets, and the `graph/` folder stores generated visualizations. Create these folders as needed. The example CSV and image files are optional and should be added separately.
@@ -216,12 +213,3 @@ The graph is saved in the `graph/` directory when that folder exists and the fil
 
 ** Virendra Nakum** 
 
-**Project:** Data Analysis & Visualization Program
-
-**Language:** Python
-
-## 📝 Conclusion
-
-The Data Analysis & Visualization Program demonstrates how Python libraries such as Pandas and Matplotlib can be used to process, analyze, and visualize datasets. It combines data exploration, missing-value handling, statistical calculations, and graphical representation in a single menu-driven application, making it a useful beginner-level data analytics project.
-
-Before submitting: Replace `Virendra Nakum` with your actual name, and ensure your Python file is named `main.py` or update the README instructions to match your filename.
